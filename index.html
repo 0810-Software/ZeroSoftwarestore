@@ -101,7 +101,6 @@ class Page extends ZeroFrame {
 		var out = document.getElementById("out")
 		out.innerHTML =
 			"This page is served trough the decentralized network ZeroNet." +
-			"<br>- Zeronet address: " + site_info.address +
 			"<br>- Peers: " + site_info.peers +
 			"<br>- Size: " + site_info.settings.size +
 			"<br>- Modified: " + (new Date(site_info.content.modified*1000))
