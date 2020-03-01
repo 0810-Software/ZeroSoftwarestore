@@ -18,6 +18,6 @@ assignees: ''
 - Theme color (default: #FFFFFF) : #FFFFFF
 - Allowed to be on Stream* (y/n) : y
 
-**More info**
+**More info** *
 
 This example is example software that allows users to do examples on example documents.
