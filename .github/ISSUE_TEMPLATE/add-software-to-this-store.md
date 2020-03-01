@@ -25,5 +25,4 @@ assignees: ''
   - [ ] Others:
 
 - More info* :
-
-    This example is example software that allows users to do examples on example documents.
+> This example is example software that allows users to do examples on example documents.
