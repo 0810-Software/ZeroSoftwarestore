@@ -10,7 +10,7 @@ assignees: ''
 (*=required)
 
 - Software name* : Example
-- Software release source* (can be anything, as long as it leads me to an installer file which I can upload to the store.) : https://github.com/0810-Software//releases/latest
+- Software release source* (can be anything, as long as it leads me to an installer file which I can upload to the store.) : https://github.com/Exampler-the-example/exampleminer-win/releases/latest
 - Type of software* : Social media
 - Creator* : Exampler-the-example
 - License* : Open Source, MIT.
