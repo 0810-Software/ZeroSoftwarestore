@@ -1,0 +1,120 @@
+{
+ "address": "1FZSL1DX29Xrhnh1u6hGZDusT2DxdjAqkR",
+ "address_index": 33612302,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "",
+ "files": {
+  "CODE_OF_CONDUCT.md": {
+   "sha512": "fbe5cf7f17cea2fefd7946cdbde8b49f646ef605e83f5707a294f2b5df78de54",
+   "size": 3363
+  },
+  "CONTRIBUTING.md": {
+   "sha512": "cb866828a4eb083b8e3ce2727bac75a0c838b2b8788d8627737bfc4019ba3514",
+   "size": 20
+  },
+  "LICENSE.md": {
+   "sha512": "96f84d59e255d56ae6be59670facc7473c4c251a6e71b5d00cd7fccbd1f5e893",
+   "size": 13148
+  },
+  "README.md": {
+   "sha512": "e0b741a20d97cb283bea13581d9d20313014e4308036d9a061a5612437e1e3da",
+   "size": 829
+  },
+  "about/index.html": {
+   "sha512": "b9f3ddf474877cddf1a5ebf7b9a28aa1866c720fd97f5b4c5ff84dd942dd4057",
+   "size": 4200
+  },
+  "docs/stream.md": {
+   "sha512": "30e2c78dab1545ab21b1cc02ad0004b1d6e6fe63113c7e9d78ddd0895c97c17c",
+   "size": 581
+  },
+  "downloads/category/encryption/index.html": {
+   "sha512": "efde39669f240f429e69226db146a59523a846e18f33fbdbb08075632face461",
+   "size": 4652
+  },
+  "downloads/category/new/index.html": {
+   "sha512": "126c4e26eafd8a37fd86f52878cb3df431991de7f5c853debc1b0292ceb05a76",
+   "size": 4519
+  },
+  "downloads/category/tools/index.html": {
+   "sha512": "40a7337f04f4acac5edebf4169ca96876ee5414e43457dd4170b6fcd4d9177e1",
+   "size": 4649
+  },
+  "downloads/index.html": {
+   "sha512": "48debfb58f10a23ad22b69b910611b4be7def5eaf7a5b95aef454d62d88da4fa",
+   "size": 4696
+  },
+  "downloads/publisher/0810Software/index.html": {
+   "sha512": "769cdaa2b79b375192d353a989a9daac162344adc6719afad86359237996f014",
+   "size": 4480
+  },
+  "favicon.ico": {
+   "sha512": "9bffc8baa72d0de09de563fa5deb9ee6661b58aaa980dbb496982bb68333e07c",
+   "size": 4286
+  },
+  "img/bg.gif": {
+   "sha512": "a7465a3d736cb2a8bfee8cb1a9e24385a1459526d5a155148cf2d11078d0c129",
+   "size": 39493
+  },
+  "img/bg2.gif": {
+   "sha512": "bf7f5d54d5642ada8c6ab711305640ad9aad61fd703546c121c756118b0174ed",
+   "size": 62586
+  },
+  "img/bg3.jpg": {
+   "sha512": "bc876314dde7f3ff39cc9f559f29c9ddb25a2de1a2798554c7a6c4af336c3c40",
+   "size": 6107
+  },
+  "img/download.png": {
+   "sha512": "722160a46dc7d839419f0b2424b4bd0babe96fcded96354e4c3b7c47ade66f7e",
+   "size": 2857
+  },
+  "img/logo.png": {
+   "sha512": "512e14bf51f5b1ac1e6cf716b1a4189e9875c59687ca7224e32e587618101043",
+   "size": 2233
+  },
+  "index.html": {
+   "sha512": "14e94413f1220bcd6a69a5acf5f24232e38c3c1df76033e75afd449555ef1219",
+   "size": 4060
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "156eeae519b9f4c25914431dd93afcedd828e1da2ec80ed0ef0c45f87ad6a76d",
+   "size": 3835
+  },
+  "listofaddedsoftware.ods": {
+   "sha512": "ef36863e97f639e3e17b443334b6a3fd276a17f12fe1fa305a6faaef5c6210a6",
+   "size": 4764
+  },
+  "listofsoftware.md": {
+   "sha512": "1bdb99cda2fd5a2ccbd478113a293581f679ea327c4d0cce7456190438a9062c",
+   "size": 98
+  },
+  "stream/index.html": {
+   "sha512": "080ca6536e13d9179e5af0b13594e75429946c42a6b9f3068e8cc0458fa3ed29",
+   "size": 4549
+  },
+  "template-download/content.json-default": {
+   "sha512": "4be37c59de9b8e090c747c75c7e20d744e37867ce9cf5ba4387de3a434c969be",
+   "size": 496
+  },
+  "template-download/index.html": {
+   "sha512": "39951e7cb4808921caa129eeac3cd9fa16db90456d14c6ed8ffaaad616e665ba",
+   "size": 5929
+  },
+  "template-download/js/ZeroFrame.js": {
+   "sha512": "156eeae519b9f4c25914431dd93afcedd828e1da2ec80ed0ef0c45f87ad6a76d",
+   "size": 3835
+  }
+ },
+ "ignore": "",
+ "inner_path": "content.json",
+ "modified": 1585122364,
+ "postmessage_nonce_security": true,
+ "signers_sign": "GyHNwpD/qDmAc/S3ABkgO7jfoWOaJSvDtT8pWb18zemOP66fFeU/lUqAIbbRbzh9XBfAkRkrZtXTPll0WA7adwY=",
+ "signs": {"1FZSL1DX29Xrhnh1u6hGZDusT2DxdjAqkR": "G5FH5kTY9QkIeYuKp3D8yzLHofFLtwo9HyQ3zqhum1cxEpdj1S35usT1wDfBRrSCFucfRSoP8EFcI0jYKeCFD/s="},
+ "signs_required": 1,
+ "title": "ZeroSoftwarestore",
+ "translate": ["js/all.js"],
+ "zeronet_version": "0.7.1"
+}
